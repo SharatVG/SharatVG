@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SharatVG
 - 👀 I’m interested in Java, Springs Frameworks, AWS, APIs
-- 🌱 I’m Started from THE BEGINING 
+- 🌱 I’m Have Started from THE BEGINING 
 - 💞️ I have not started my side project yet
 - 📫 you can reach me on sharatvgangal@gmail.com
 
